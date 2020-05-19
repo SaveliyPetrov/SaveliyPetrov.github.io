@@ -1,2 +1,2 @@
 # SaveliyPetrov.github.io
-My site
+Hello! You can check my simple site.
